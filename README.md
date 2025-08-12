@@ -19,12 +19,14 @@ The workbook uses an embedded dataset containing:
 - **Customer Data** – Names, purchase details
 - **Order Data** – Order Date, Quantity, Sales Value
 - **Time Dimensions** – Monthly and yearly breakdown
+  
 ![Sales-Data-Analysis](https://github.com/kouatcheu1/Sales-Data-Analysis/blob/main/Technical%20Assessment%20Data%20-%20Tableau%20Developer.xlsx)
 
 ## Dashboards Overview
 
 ### 1. Value-Based Analysis
 
+![Sales-Data-Analysis](https://github.com/kouatcheu1/Sales-Data-Analysis/blob/main/value.png)
 
 **Purpose**  
 Focuses on the **monetary value of sales** to reveal which categories, products, and customers are driving the most revenue.
@@ -38,7 +40,8 @@ Focuses on the **monetary value of sales** to reveal which categories, products,
 ---
 
 ### 2️. Volume-Based Analysis
- 
+
+ ![Sales-Data-Analysis](https://github.com/kouatcheu1/Sales-Data-Analysis/blob/main/vol.png)
 
 **Purpose**  
 Examines **units sold** rather than revenue, allowing teams to understand demand patterns and identify best-selling items by quantity.
@@ -53,6 +56,7 @@ Examines **units sold** rather than revenue, allowing teams to understand demand
 
 ### 3️. Combined Analysis
 
+ ![Sales-Data-Analysis](https://github.com/kouatcheu1/Sales-Data-Analysis/blob/main/combined.png)
 
 **Purpose**  
 Brings **value and volume metrics together** for a holistic view, enabling deeper profitability and efficiency analysis.
@@ -63,4 +67,4 @@ Brings **value and volume metrics together** for a holistic view, enabling deepe
 - **Dual-metric category and product charts**: See how revenue and volume align.
 
 
-🚀 **You can access the Tableau dashboard** [here](https://public.tableau.com/app/profile/samuel.kouatcheu/viz/HealthcareDashboard1_17385956702040/Dashboard1)
+🚀 **You can access the Tableau dashboard** [here]()
