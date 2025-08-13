@@ -67,4 +67,4 @@ Brings **value and volume metrics together** for a holistic view, enabling deepe
 - **Dual-metric category and product charts**: See how revenue and volume align.
 
 
-🚀 **You can access the Tableau dashboard** [here](https://public.tableau.com/app/profile/samuel.kouatcheu/viz/SalesAnalysisDashboard_17550130398820/VolumeBasedAnalysis#1)
+🚀 **You can access the Tableau dashboard** [here](https://public.tableau.com/app/profile/samuel.kouatcheu/viz/SalesDistributionAnalysis_17550345855600/CombinedAnalysis#1)
